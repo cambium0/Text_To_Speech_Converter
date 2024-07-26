@@ -1,0 +1,1 @@
+To run this app you will need AWS CLI insetalled and a config file with profile:[username] added in ~/.aws. That means you'll need an account with AWS. You can still do this and use Polly for free for 12 months I believe.
